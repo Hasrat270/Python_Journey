@@ -5,7 +5,6 @@
 # 3. Add a method called area that returns the width multiplied by the height
 # 4. Create an object r1 with width 5 and height 3
 # 5. Print the area of r1
-
 class Rectangle:
   def __init__(self, width, height):
     self.width = width
