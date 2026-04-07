@@ -1,4 +1,4 @@
-# Python Classes/Objects Code Challenge
+# Challenge: Classes/Objects
 
 class Person:
   def __init__(self, name, age):
