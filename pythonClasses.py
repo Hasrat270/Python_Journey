@@ -8,4 +8,4 @@ class Person:
     print("Hello, my name is " + self.name)
 
 p1 = Person("Hasrat", 21)
-p1.greet()
+p1.greet() 
